@@ -1,5 +1,6 @@
 const greetings = 'Hello window';
 console.log(greetings)
+'Error'
 
 let answer = prompt('Димон тупой?', '');
 // if(answer == 'Нет' || answer == 'нет'){
