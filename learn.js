@@ -1,7 +1,6 @@
 const greetings = 'Hello window';
 console.log(greetings)
-'Error'
-
+'Error Warning'
 let answer = prompt('Димон тупой?', '');
 // if(answer == 'Нет' || answer == 'нет'){
 //     alert('Правильно')
